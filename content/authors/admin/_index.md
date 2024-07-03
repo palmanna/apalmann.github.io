@@ -3,21 +3,21 @@
 title: Anna Palmann
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+# name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Anna
 last_name: Palmann
 
 # Status emoji
-status:
-  icon: ''
+#status:
+#  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+# highlight_name: true
 
 # Role/position/tagline
 role: PhD Candidate
